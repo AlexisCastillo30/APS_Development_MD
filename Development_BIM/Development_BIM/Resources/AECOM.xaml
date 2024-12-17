@@ -1,0 +1,25 @@
+﻿<UserControl x:Class="Development_BIM.Resources.AECOM"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="500">
+    <Grid>
+        <Viewbox>
+            <Canvas Width="239.9" Height="54.2">
+                <Canvas.Resources>
+                    <Style x:Key="st0" TargetType="Path">
+                        <Setter Property="Fill" Value="White"/>
+                    </Style>
+                    <Style x:Key="st1" TargetType="Path">
+                        <Setter Property="Fill" Value="White"/>
+                    </Style>
+                </Canvas.Resources>
+                <Path Style="{StaticResource st0}" Data="M29.8,13.4h0.1l3.8,18.1H22.2C22.2,31.5,29.8,13.4,29.8,13.4z M24.6,1L0,53.2h13.1L17.4,43h18.8l2.1,10.2h12.4L38.7,1C38.7,1,24.6,1,24.6,1z M86,33.2H53.8l1.8-12.1h32.3L86,33.2z M93.5,13.1H56.8L58.6,1h36.7L93.5,13.1z M89.3,41H52.6l-1.8,12.2h36.7L89.3,41z"/>
+                <Path Style="{StaticResource st1}" Data="M129.7,39.8c-3.5,1.6-8.7,1.9-11.3,1.9c-8.3,0-13.7-5.6-13.5-14c0.3-8.8,7-15.2,16.1-15.2c4.3,0,8.1,1.4,11.5,4.3L135,4.3c-5.2-3.1-9.5-4.3-15-4.3c-15,0-27.4,12.5-28,28.3c-0.5,15.3,9.4,26,24.1,26c2.6,0,8.1-0.3,11.6-1.9L129.7,39.8z M169.5,28.9c1.9-8.8-1.4-15.7-8.1-17.1c-7.3-1.5-14,4.1-16,13.4c-1.9,8.8,1.4,15.7,8.1,17.1C160.8,43.8,167.5,38.2,169.5,28.9 M160.9,0.1c14,1,22.6,12.4,21,27.5c-1.6,15.7-14.2,27.3-28.5,26.3c-14-1-22.6-12.4-21-27.5C134,10.7,146.7-0.9,160.9,0.1"/>
+                <Path Style="{StaticResource st0}" Data="M227.2,1l-15.1,29.4L206,1h-11.7l-16.2,52.2H191l8.9-30.6l5.5,30.6h6.6l15.3-30.6l-0.2,30.6h12.8L239,1H227.2z"/>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

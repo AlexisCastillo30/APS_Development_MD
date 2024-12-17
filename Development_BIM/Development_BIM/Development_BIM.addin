@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command Development_BIM</Text>
+    <Description>Some description for Development_BIM</Description>
+    <Assembly>Development_BIM.dll</Assembly>
+    <FullClassName>Development_BIM.Command</FullClassName>
+    <ClientId>FA406B9B-9EE4-45CB-9518-A4E0CDD90C96</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application Development_BIM</Name>
+    <Assembly>Development_BIM.dll</Assembly>
+    <FullClassName>Development_BIM.App</FullClassName>
+    <ClientId>75F9B11C-CE45-4147-AD3B-2540E036B13D</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder</VendorDescription>
+  </AddIn>
+</RevitAddIns>

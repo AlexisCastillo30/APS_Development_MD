@@ -1,0 +1,273 @@
+﻿<Window x:Class="Development_BIM.UI.WPF_Opening"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Development_BIM.UI"
+             xmlns:resources="clr-namespace:Development_BIM.Resources"
+             mc:Ignorable="d" 
+             Title="WPF_Opening" Height="450" Width="800" Background="#FF001925" WindowStyle="None" ResizeMode="NoResize">
+
+    <Window.Resources>
+
+        <!-- Declarar la fuente personalizada -->
+        <FontFamily x:Key="AecomSansBold">/Development_BIM;component/Fonts/#AECOM Sans Bold</FontFamily>
+        <FontFamily x:Key="AecomSansBoldItalic">/Development_BIM;component/Fonts/#AECOM Sans Bold Italic</FontFamily>
+        <FontFamily x:Key="AecomSansItalic">/Development_BIM;component/Fonts/#AECOM Sans Italic</FontFamily>
+        <FontFamily x:Key="AecomSansLight">/Development_BIM;component/Fonts/#AECOM Sans Light</FontFamily>
+        <FontFamily x:Key="AecomSansLightItalic">/Development_BIM;component/Fonts/#AECOM Sans Light Italic</FontFamily>
+        <FontFamily x:Key="AecomSansRegular">/Development_BIM;component/Fonts/#AECOM Sans Regular</FontFamily>
+        <FontFamily x:Key="AecomSansExtraBold">/Development_BIM;component/Fonts/#AECOM Sans Extra Bold</FontFamily>
+        <FontFamily x:Key="AecomSansExtraBoldItalic">/Development_BIM;component/Fonts/#AECOM Sans Extra Bold Italic</FontFamily>
+
+
+    </Window.Resources>
+
+
+
+
+    <Grid Background="#FF001925">
+        <ComboBox HorizontalAlignment="Left" Height="21" Margin="270,86,0,0" VerticalAlignment="Top" Width="493"/>
+
+        <!--<Label Content="Texto en negrita" FontFamily="{StaticResource AecomSansBold}" FontSize="16" Margin="78,132,398,290" Grid.Column="1"/>-->
+
+
+
+
+
+
+        <Border BorderThickness="1" HorizontalAlignment="Right" Height="40" Margin="0,0,18,23" Grid.Row="1" VerticalAlignment="Bottom" Width="100" Background="#FFFF7A01">
+            <Border.Style>
+                <Style TargetType="{x:Type Border}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF007AFF"/>
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="#FF00FFF9" 
+                           Direction="315" 
+                           ShadowDepth="10" 
+                           BlurRadius="30" 
+                           Opacity="0.5"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Border.Style>
+        </Border>
+
+
+        <Button Content="Cancelar" Margin="0,0,20,25" Width="100" Background="#FF001925" Foreground="#FFFF7A01" BorderBrush="{x:Null}" VerticalAlignment="Bottom" HorizontalAlignment="Right" Grid.Row="1" Height="40">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="#FF001925"/>
+                    <Setter Property="Foreground" Value="#FFFF7A01"/>
+                    <Setter Property="BorderBrush" Value="{x:Null}"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF007AFF"/>
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="#FF00FFF9" 
+                                      Direction="315" 
+                                      ShadowDepth="10" 
+                                      BlurRadius="30" 
+                                      Opacity="0.5"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <!-- Controla el color cuando el mouse está sobre el botón -->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF003355"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón está presionado -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF002244"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón tiene el foco -->
+                        <Trigger Property="IsFocused" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF001925"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón está en estado normal (sin interacción) -->
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="border" Property="Background" Value="#FF555555"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+
+        <Border BorderThickness="1" HorizontalAlignment="Right" Height="40" Margin="0,0,148,23" Grid.Row="1" VerticalAlignment="Bottom" Width="180" Background="#FFFF7A01">
+            <Border.Style>
+                <Style TargetType="{x:Type Border}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF007AFF"/>
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="#FF00FFF9" 
+                              Direction="315" 
+                              ShadowDepth="10" 
+                              BlurRadius="30" 
+                              Opacity="0.5"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Border.Style>
+        </Border>
+
+        <Button Content="Openings" Margin="0,0,150,25" Width="180"  Background="#FF001925" Foreground="#FFFF7A01" BorderBrush="{x:Null}" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Row="1" Height="40">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="#FF001925"/>
+                    <Setter Property="Foreground" Value="#FFFF7A01"/>
+                    <Setter Property="BorderBrush" Value="{x:Null}"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF007AFF"/>
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="#FF00FFF9" 
+                                      Direction="315" 
+                                      ShadowDepth="10" 
+                                      BlurRadius="30" 
+                                      Opacity="0.5"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <!-- Controla el color cuando el mouse está sobre el botón -->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF003355"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón está presionado -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF002244"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón tiene el foco -->
+                        <Trigger Property="IsFocused" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF001925"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón está en estado normal (sin interacción) -->
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="border" Property="Background" Value="#FF555555"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+
+        <Border BorderThickness="1" HorizontalAlignment="Right" Height="40" Margin="0,0,348,23" Grid.Row="1" VerticalAlignment="Bottom" Width="180" Background="#FFFF7A01">
+            <Border.Style>
+                <Style TargetType="{x:Type Border}">
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF007AFF"/>
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="#FF00FFF9" 
+                      Direction="315" 
+                      ShadowDepth="10" 
+                      BlurRadius="30" 
+                      Opacity="0.5"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Border.Style>
+        </Border>
+
+
+        <Button Content="Void" Margin="0,0,350,25" Width="180"  Background="#FF001925" Foreground="#FFFF7A01" BorderBrush="{x:Null}" HorizontalAlignment="Right" VerticalAlignment="Bottom" Grid.Row="1" Height="40">
+            <Button.Style>
+                <Style TargetType="{x:Type Button}">
+                    <Setter Property="Background" Value="#FF001925"/>
+                    <Setter Property="Foreground" Value="#FFFF7A01"/>
+                    <Setter Property="BorderBrush" Value="{x:Null}"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="Background" Value="#FF007AFF"/>
+                            <Setter Property="Effect">
+                                <Setter.Value>
+                                    <DropShadowEffect Color="#FF00FFF9" 
+                              Direction="315" 
+                              ShadowDepth="10" 
+                              BlurRadius="30" 
+                              Opacity="0.5"/>
+                                </Setter.Value>
+                            </Setter>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+            <Button.Template>
+                <ControlTemplate TargetType="{x:Type Button}">
+                    <Border x:Name="border" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="0">
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <!-- Controla el color cuando el mouse está sobre el botón -->
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF003355"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón está presionado -->
+                        <Trigger Property="IsPressed" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF002244"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón tiene el foco -->
+                        <Trigger Property="IsFocused" Value="True">
+                            <Setter TargetName="border" Property="Background" Value="#FF001925"/>
+                        </Trigger>
+                        <!-- Controla el color cuando el botón está en estado normal (sin interacción) -->
+                        <Trigger Property="IsEnabled" Value="False">
+                            <Setter TargetName="border" Property="Background" Value="#FF555555"/>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+
+
+
+
+        <StackPanel HorizontalAlignment="Left" Height="95" VerticalAlignment="Bottom" Width="155" Margin="20,0,0,65">
+            <TextBlock Text="Created By:" FontSize="11" Foreground="#FFD7CCCC" />
+            <Separator/>
+            <TextBlock Text="Christian Sarmiento" FontSize="15" Foreground="#FFD7CCCC" />
+            <TextBlock Text="Bayron Cuesta" FontSize="15" Foreground="#FFD7CCCC"/>
+            <Separator/>
+            <TextBlock Text="© Copyright all rights reserved" FontSize="11" Foreground="#FFD7CCCC" />
+        </StackPanel>
+
+        <!--<resources:AECOM HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="20,0,0,25" Grid.Row="1" Width="150"/>-->
+        <Image HorizontalAlignment="Left" Height="128" Margin="270,210,0,0" VerticalAlignment="Top" Width="172" Stretch="Fill" Source="/Development_BIM;component/Resources/Voids.png"/>
+
+
+
+    </Grid>
+</Window>

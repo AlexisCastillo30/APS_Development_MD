@@ -1,0 +1,27 @@
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\bin\Debug\Development_BIM.dll
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\bin\Debug\Development_BIM.pdb
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.csproj.AssemblyReference.cache
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.Properties.Resources.resources
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.csproj.GenerateResource.cache
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.csproj.CoreCompileInputs.cache
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.dll
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.pdb
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.csproj.AssemblyReference.cache
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Resources\AECOM.baml
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Resources\AECOM.g.cs
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\UI\PanelAcabados.g.cs
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\UI\RevitAI.g.cs
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\UI\WPF_Opening.g.cs
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM_MarkupCompile.cache
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM_MarkupCompile.lref
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\bin\Debug\Development_BIM.dll
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\bin\Debug\Development_BIM.pdb
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\UI\PanelAcabados.baml
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\UI\RevitAI.baml
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\UI\WPF_Opening.baml
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.g.resources
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.Properties.Resources.resources
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.csproj.GenerateResource.cache
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.csproj.CoreCompileInputs.cache
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.dll
+C:\Users\bayron.cuesta\Desktop\Development_BIM\Development_BIM\obj\Debug\Development_BIM.pdb

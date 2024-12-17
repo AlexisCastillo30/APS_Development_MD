@@ -1,0 +1,33 @@
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\bin\Debug\ProyectoInicio.dll
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\bin\Debug\ProyectoInicio.pdb
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csprojAssemblyReference.cache
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.dll
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.pdb
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.Formulario.resources
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.Properties.Resources.resources
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csproj.GenerateResource.cache
+C:\Users\Ignacio\Desktop\Trabajo\Curso18-19\Modulo3\ProyectoInicio\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.ComprobarMuro.resources
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\bin\Debug\ProyectoInicio.dll
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\bin\Debug\ProyectoInicio.pdb
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csprojAssemblyReference.cache
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.ComprobarMuro.resources
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.Formulario.resources
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.Properties.Resources.resources
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csproj.GenerateResource.cache
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csproj.CoreCompileInputs.cache
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.dll
+E:\MBIM\ASIGNATURAS MBIM\PROGRAMACIÓN\POR\Material de Clase\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.pdb
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csprojAssemblyReference.cache
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.Properties.Resources.resources
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csproj.GenerateResource.cache
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.csproj.CoreCompileInputs.cache
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.dll
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.pdb
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\bin\Debug\ProyectoInicio.dll
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\bin\Debug\ProyectoInicio.pdb
+C:\Users\Julio\Desktop\ProyectoInicio\ProyectoInicio\obj\Debug\ProyectoInicio.ArchivoTXT.resources
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\ProyectoInicio.csproj.AssemblyReference.cache
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\Development_BIM.Properties.Resources.resources
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\ProyectoInicio.csproj.GenerateResource.cache
+C:\Users\bayron.cuesta\Downloads\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Recursos C# Introduccion -Bloque 3 Contenido para el alumno\Development_BIM\Development_BIM\obj\Debug\ProyectoInicio.csproj.CoreCompileInputs.cache

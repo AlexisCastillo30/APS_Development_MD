@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Development_BIM", "Development_BIM\Development_BIM.csproj", "{2EA80383-6E5F-4ADA-9457-89733CA77974}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CIX_Architecture_Solutions", "CIX_Architecture_Solutions\CIX_Architecture_Solutions.vdproj", "{8F9B5D5C-4D53-40D9-9449-D37B620394DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA80383-6E5F-4ADA-9457-89733CA77974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA80383-6E5F-4ADA-9457-89733CA77974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA80383-6E5F-4ADA-9457-89733CA77974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA80383-6E5F-4ADA-9457-89733CA77974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9B5D5C-4D53-40D9-9449-D37B620394DB}.Debug|Any CPU.ActiveCfg = Debug
+		{8F9B5D5C-4D53-40D9-9449-D37B620394DB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A1169E-B3D2-4B13-B3EB-BB1850B2FE94}
+	EndGlobalSection
+EndGlobal
